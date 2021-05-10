@@ -1,0 +1,37 @@
+body{
+    background-image:url(./dating6.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bold;
+    font-size: larger;
+    text-shadow: white;
+    margin: 10px 10px;  
+  
+}
+p{
+    display: inline;
+    color: rgb(179, 11, 75);
+    font-size: 30px;
+    
+}
+legend  {
+  
+    margin-left: 22%;
+    font-size: 50px;
+    color: rgb(151, 12, 151);
+}
+form{
+    margin-top: 20px;
+}
+p:hover{ 
+   color: darkmagenta;
+
+}
+form{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.submit :hover{
+
+background-color: darkred;
+}
